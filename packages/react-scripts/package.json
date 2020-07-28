@@ -1,6 +1,6 @@
 {
   "name": "@spcy/pub.react-scripts",
-  "version": "3.4.1-spcy-03",
+  "version": "3.4.1-spcy-05",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -33,7 +33,7 @@
     "@typescript-eslint/eslint-plugin": "^2.10.0",
     "@typescript-eslint/parser": "^2.10.0",
     "babel-eslint": "10.1.0",
-    "babel-jest": "^24.9.0",
+    "babel-jest": "^26.1.0",
     "babel-loader": "8.1.0",
     "babel-plugin-named-asset-import": "^0.3.6",
     "babel-preset-react-app": "^9.1.2",
@@ -54,7 +54,7 @@
     "fs-extra": "^8.1.0",
     "html-webpack-plugin": "4.0.0-beta.11",
     "identity-obj-proxy": "3.0.0",
-    "jest": "24.9.0",
+    "jest": "26.1.0",
     "jest-environment-jsdom-fourteen": "1.0.1",
     "jest-resolve": "24.9.0",
     "jest-watch-typeahead": "0.4.2",
@@ -76,8 +76,8 @@
     "terser-webpack-plugin": "2.3.5",
     "ts-pnp": "1.1.6",
     "url-loader": "2.3.0",
-    "webpack": "4.42.0",
-    "webpack-dev-server": "3.10.3",
+    "webpack": "4.44.0",
+    "webpack-dev-server": "3.11.0",
     "webpack-manifest-plugin": "2.2.0",
     "workbox-webpack-plugin": "4.3.1"
   },
